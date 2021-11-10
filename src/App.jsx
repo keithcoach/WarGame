@@ -211,7 +211,7 @@ const App = () => {
     // flip cards after 1.5 seconds
     setTimeout(() => {
       setFlipped(false);
-    }, 100);
+    }, 2000);
   };
 
   return (
